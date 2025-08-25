@@ -7,7 +7,7 @@ draft: false
 ---
 ### Step 1: Deploy your JupyterLite website on GitHub pages
 
-We need a place to store the notebooks and a kernel torun Python in the browser -- no server required. JupyterLite uses the Pyodide kernel. Follow the instructions [here](https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html) to clone the JupyterLite demo and deploy using GitHub pages.
+<!-- We need a place to store the notebooks and a kernel torun Python in the browser -- no server required. JupyterLite uses the Pyodide kernel. Follow the instructions [here](https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html) to clone the JupyterLite demo and deploy using GitHub pages. -->
 
 ![1756100428997](image/embed_jupyter/1756097288598.png)Step 2: Place a custom notebook file in the `content` folder of the repo. Push changes to update.
 
