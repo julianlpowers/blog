@@ -21,6 +21,7 @@ Create your notebook file using any editor you wish. They could also be added th
 
 <video  autoplay muted loop>
   <source src="image/embed_jupyter/1756101295949.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 ## Step 4: Paste the URL into `iframe` block src (works with .md and .html)
