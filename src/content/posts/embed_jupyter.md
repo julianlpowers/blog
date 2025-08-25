@@ -1,5 +1,5 @@
 ---
-title: How to Embed Jupyter notebooks on any Wepage
+title: How to Embed Jupyter Notebooks on any Wepage
 published: 2025-08-25
 tags: [WebDev,Jupyter,Blogging]
 category: Misc.
