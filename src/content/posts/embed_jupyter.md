@@ -19,7 +19,7 @@ Create your notebook file using any editor you wish. They could also be added th
 
 ### Step 3: Open the website and expand the notebook. Copy the URL.
 
-<video src="image/embed_jupyter/1756101295949.mp4" controls width="100%"></video>
+[Watch the demo video](image/embed_jupyter/1756101295949.mp4)
 
 ### Step 4: Paste the URL into `iframe` block src (works with .md and .html)
 
