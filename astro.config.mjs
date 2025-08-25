@@ -30,9 +30,6 @@ export default defineConfig({
 	base: "/blog",
 	trailingSlash: "always",
 	integrations: [
-		markdoc({
-      		allowHTML: true
-    	}),
 		tailwind({
 			nesting: true,
 		}),
