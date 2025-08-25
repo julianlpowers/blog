@@ -17,6 +17,7 @@ Create your notebook file using any editor you wish. They could also be added th
 
 ![1756097481930](image/embed_jupyter/1756097481930.png)
 
+
 ## Step 3: Open the website and expand the notebook. Copy the URL.
 
 <video  autoplay muted loop>
