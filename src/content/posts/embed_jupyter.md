@@ -20,7 +20,7 @@ Create your notebook file using any editor you wish. They could also be added th
 ## Step 3: Open the website and expand the notebook. Copy the URL.
 
 <video  autoplay muted loop>
-  <source src="../../../public/short_videos/juypter_embed.mp4" type="video/mp4">
+  <source src="/short_videos/juypter_embed.mp4" type="video/mp4">
 </video>
 
 ## Step 4: Paste the URL into `iframe` block src (works with .md and .html)
