@@ -20,7 +20,10 @@ Create your notebook file using any editor you wish. They could also be added th
 ## Step 3: Open the website and expand the notebook. Copy the URL.
 
 <video  autoplay muted loop>
-  <source src="../../assets/images/juypter_embed.mp4" type="video/mp4">
+  <source src="public/short_videos/juypter_embed.mp4" type="video/mp4">
+  <source src="../../../public/short_videos/juypter_embed.mp4" type="video/mp4">
+  <source src="https://github.com/julianlpowers/blog/blob/main/public/short_videos/juypter_embed.mp4" type="video/mp4">
+  <source src="https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto&q=type:vids%20parent:0ADzIXjoKT_ewUk9PVA" type="video/mp4">
 </video>
 
 ## Step 4: Paste the URL into `iframe` block src (works with .md and .html)
@@ -43,4 +46,4 @@ Create your notebook file using any editor you wish. They could also be added th
 >
 </iframe>
 
-you can even make edits, add cells, and export the code. Your browser will save changes (even on refresh) and you can reset by going to `Help -> Clear Browser Data`.
+you can even make edits, add cells, and export the code. Your browser will save changes on refresh and you can reset by going to `Help -> Clear Browser Data`.
