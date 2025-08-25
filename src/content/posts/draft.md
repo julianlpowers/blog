@@ -3,7 +3,7 @@ title: Draft Example
 published: 2022-07-01
 tags: [Markdown, Blogging, Demo]
 category: Examples
-draft: false
+draft: true
 ---
 This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
 
