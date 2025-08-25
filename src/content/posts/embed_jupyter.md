@@ -25,6 +25,10 @@ Create your notebook file using any editor you wish. They could also be added th
   <source src="https://github.com/julianlpowers/blog/blob/main/public/short_videos/juypter_embed.mp4" type="video/mp4">
   <source src="https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto&q=type:vids%20parent:0ADzIXjoKT_ewUk9PVA" type="video/mp4">
 </video>
+<iframe
+  src=""
+></iframe>
+
 
 ## Step 4: Paste the URL into `iframe` block src (works with .md and .html)
 
