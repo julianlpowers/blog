@@ -17,11 +17,10 @@ Create your notebook file using any editor you wish. They could also be added th
 
 ![1756097481930](image/embed_jupyter/1756097481930.png)
 
-
 ## Step 3: Open the website and expand the notebook. Copy the URL.
 
 <video  autoplay muted loop>
-  <source src="/short_videos/juypter_embed.mp4" type="video/mp4">
+  <source src="../../assets/images/juypter_embed.mp4" type="video/mp4">
 </video>
 
 ## Step 4: Paste the URL into `iframe` block src (works with .md and .html)
@@ -44,4 +43,4 @@ Create your notebook file using any editor you wish. They could also be added th
 >
 </iframe>
 
-you can even make edits, add cells, and export the code.
+you can even make edits, add cells, and export the code. Your browser will save changes (even on refresh) and you can reset by going to `Help -> Clear Browser Data`.
