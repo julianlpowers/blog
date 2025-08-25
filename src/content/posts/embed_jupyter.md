@@ -13,7 +13,7 @@ We need a place to store the notebooks and a kernel to run Python in the browser
 
 ## Step 2: Place a custom notebook file in the `content` folder of the repo. Push changes to update.
 
-Create your notebook file using any editor you wish. They could also be added through the JupyterLite website. If you use an external editor (e.g. vscode) you need to push changes in order to update.
+Create your notebook file using any editor you wish. You need to push changes in order to for the JupyterLite site to update.
 
 ![1756097481930](image/embed_jupyter/1756097481930.png)
 
