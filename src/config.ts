@@ -31,11 +31,11 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		// Leave this array empty to use the default favicon
-		// {
-		//   src: '/favicon/paper_frog-96x96.png',    // Path of the favicon, relative to the /public directory
+		{
+		  src: '/favicon/paper_frog-96x96.png',    // Path of the favicon, relative to the /public directory
 		//   theme: undefined,              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 		//   sizes: undefined,              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-		// },
+		},
 	],
 };
 
