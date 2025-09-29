@@ -2,6 +2,8 @@
 
 I post about interesting things
 
+[Resume](CV.pdf)
+
 ::github{repo="julianlpowers/blog"}
 
 > ### Sources of images used in this site
